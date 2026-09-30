@@ -6,7 +6,7 @@
 |---|---|
 | **Apellidos y nombres** | Salas Jimenez, Walter Emmanuel |
 | **Código de estudiante** | 2022073896 |
-| **URL del repositorio** | `https://github.com/Wsalas651/si084-caso-coopac` |
+| **URL del repositorio** | `https://github.com/Wsalas651/si084-caso-coopac/tree/examen-u1` |
 | **Fecha** | |
 
 ## 1. Resultados de los procedimientos
